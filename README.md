@@ -9,7 +9,7 @@ This is a Senior Design Project from the following students at the State Univers
  * Lunmar Alcantara
 
 
-## About WLDTO
+## About WLTDO
 
 
 ## Relevant Repositories
