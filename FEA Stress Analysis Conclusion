@@ -1,0 +1,13 @@
+Some points to take away from this analysis are the satisfied boundary conditions, the results of 
+the normal stress and total deformation, and the overall information that was gathered based 
+on the data from ANSYS. First, both the gravity and fixed support boundary 
+conditions were satisfied. The weight due to the gravity was seen in the sagging of the door in 
+the middle and the fixed supports had a 0 meter deformation, which were expected. That was 
+the verification because sanity checks were done. Second, the results of the deformation 
+showed that there would be a maximum deformation in the middle of about 2E-7 meters, 
+which is very minimal and it will not dramatically affect the door in real life. The material will 
+not break under these circumstances. As for the normal stress, there is compressive stress on 
+the two ends of the tooth and tensile stress on the bottom edges. However, the stress is not 
+great enough to cause deformation. With all this in mind, it is safe to say that the teeth on the 
+rack gear of the door will not be deformed in any due to the weight of the door if oak wood is 
+the material used. 
