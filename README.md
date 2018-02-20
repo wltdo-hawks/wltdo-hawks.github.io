@@ -4,7 +4,7 @@ This is a Senior Design Project from the following students at the State Univers
 
  * Bryan Darcy
  * Daniel Pineda
- * Stephanie
+ * Stephanie Fernandez
  * Samuel D. Boahen
  * Lunmar Alcantara
 
