@@ -1,4 +1,4 @@
-## Welcome to WLDTO!
+## Welcome to WLTDO!
 
 This is a Senior Design Project from the following students at the State University of New York at New Paltz:
 
